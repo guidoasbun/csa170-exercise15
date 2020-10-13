@@ -1,10 +1,11 @@
 /*
  *   Guido Asbun
  *   CS A170
- *   30-September-2020
+ *   12-October-2020
  *
- *   Exercise 13
+ *   Exercise 15
  */
+
 import java.util.Scanner;
 
 public class Digits {
